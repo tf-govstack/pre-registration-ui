@@ -20,7 +20,7 @@ The code is written in Angular JS.
 - Check out the source code from GIT – To download the source code from git. Follow the following steps to download source code on your system.
   - <code>git clone https://github.com/mosip/pre-registration-ui.git</code> (to clone the source code repository from git)
 
-### For Production build:
+## For Production build:
 
 - Build the code – Follow the following steps to build the source code on your system.
   - Navigate to the pre-registration-ui directory inside the cloned repository. Then run the following command in that directory
